@@ -1,4 +1,4 @@
-baseURL: 'http://dev.drentin.id.au/'
+baseURL: 'http://dev.drentin.au/'
 languageCode: 'en-us'
 title: "Drentin\'s Findings"
 paginate: 5
@@ -34,8 +34,8 @@ params:
     - name: facebook
       url: "https://facebook.com/drentin"
     editPost:
-      URL: "https://github.com/drentinsfindings/content"
-      Text: "Suggest Changes" # edit text
+      URL: "https://github.com/drentins-findings/content"
+      Text: "Suggest Changes"
       appendFilePath: true # to append file path to Edit link
     ShowShareButtons: true
     ShowReadingTime: true
