@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://dev.drentin.id.au/tags/amazon-web-services/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://dev.drentin.id.au/tags/aws/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://dev.drentin.id.au/tags/aws-lambda/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/tags/image-processing/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/tags/iot/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/posts/is-it-a-yes/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/posts/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/tags/</loc>
+    <lastmod>2021-09-24T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/tags/deep-learning/</loc>
+    <lastmod>2021-09-15T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/posts/compost-landfill-recycling/</loc>
+    <lastmod>2021-09-15T01:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/tags/alexa/</loc>
+    <lastmod>2021-09-13T23:29:11+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/posts/first-figure-out-how-to-do/</loc>
+    <lastmod>2021-09-13T23:29:11+10:00</lastmod>
+  </url><url>
+    <loc>http://dev.drentin.id.au/archives/</loc>
+  </url><url>
+    <loc>http://dev.drentin.id.au/categories/</loc>
+  </url><url>
+    <loc>http://dev.drentin.id.au/search/</loc>
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alexa on Drentin&#39;s Findings</title>
+    <link>http://dev.drentin.id.au/tags/alexa/</link>
+    <description>Recent content in alexa on Drentin&#39;s Findings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2021 23:29:11 +1000</lastBuildDate><atom:link href="http://dev.drentin.id.au/tags/alexa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML with a AWS DeepLens: First figure out how to do... anything!</title>
+      <link>http://dev.drentin.id.au/posts/first-figure-out-how-to-do/</link>
+      <pubDate>Mon, 13 Sep 2021 23:29:11 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/posts/first-figure-out-how-to-do/</guid>
+      <description>Beginnings start here! Hello all and welcome to my first article around my attempts to create an Amazon SageMaker-based solution, focusing on image detection.
+I am participating in an initiative as part of my company&amp;rsquo;s AWS Community of Practice. The idea is inspired loosely by A Cloud Guru&amp;rsquo;s How to Build a Netflix Style Recommendation Engine with Amazon SageMaker Challenge and I have got my hands on a AWS DeepLens so I&amp;rsquo;m going to see what I can do with both of these to the best of my ability!</description>
+    </item>
+    
+  </channel>
+</rss>

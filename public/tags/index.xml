@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Drentin&#39;s Findings</title>
+    <link>http://dev.drentin.id.au/tags/</link>
+    <description>Recent content in Tags on Drentin&#39;s Findings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Sep 2021 01:00:00 +1000</lastBuildDate><atom:link href="http://dev.drentin.id.au/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amazon-web-services</title>
+      <link>http://dev.drentin.id.au/tags/amazon-web-services/</link>
+      <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/amazon-web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>http://dev.drentin.id.au/tags/aws/</link>
+      <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws-lambda</title>
+      <link>http://dev.drentin.id.au/tags/aws-lambda/</link>
+      <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/aws-lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-processing</title>
+      <link>http://dev.drentin.id.au/tags/image-processing/</link>
+      <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iot</title>
+      <link>http://dev.drentin.id.au/tags/iot/</link>
+      <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>http://dev.drentin.id.au/tags/deep-learning/</link>
+      <pubDate>Wed, 15 Sep 2021 01:00:00 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alexa</title>
+      <link>http://dev.drentin.id.au/tags/alexa/</link>
+      <pubDate>Mon, 13 Sep 2021 23:29:11 +1000</pubDate>
+      
+      <guid>http://dev.drentin.id.au/tags/alexa/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
