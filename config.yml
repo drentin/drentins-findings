@@ -1,0 +1,79 @@
+baseURL: 'http://dev.drentin.id.au/'
+languageCode: 'en-us'
+title: "Drentin\'s Findings"
+paginate: 5
+theme: "PaperMod"
+
+params:
+    # homeInfoParams:
+    #   Title: Seeing what works, and what doesn't 🤔
+    profileMode:
+      enabled: false
+      title: "Drentin\'s Findings"
+      subtitle: "I am a software engineer from Melbourne, Australia, currently concentrating on AWS-based solutions"
+      imageUrl: "images/profile.jpg" # optional
+      imageTitle: "Daniel Drentin" # optional
+      imageWidth: 120 # custom size
+      imageHeight: 120 # custom size
+      buttons:
+          - name: Posts
+            url: "/posts/"
+          - name: Archive
+            url: "/archives/"
+          - name: Tags
+            url: "/tags/"
+          - name: Search
+            url: "/search/"
+    socialIcons:
+    - name: github
+      url: "https://github.com/drentin"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/drentin/"
+    - name: twitter
+      url: "https://twitter.com/drentin"
+    - name: facebook
+      url: "https://facebook.com/drentin"
+    editPost:
+      URL: "https://github.com/drentinsfindings/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    TocOpen: true
+    ShowPostNavLinks: true
+    fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
