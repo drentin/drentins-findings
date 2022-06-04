@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Drentin&#39;s Findings</title>
     <link>http://dev.drentin.au/</link>
@@ -37,23 +37,7 @@ Step 1 - Train! Luckily in this example they include a number of sample images, 
 I am participating in an initiative as part of my company&amp;rsquo;s AWS Community of Practice. The idea is inspired loosely by A Cloud Guru&amp;rsquo;s How to Build a Netflix Style Recommendation Engine with Amazon SageMaker Challenge and I have got my hands on a AWS DeepLens so I&amp;rsquo;m going to see what I can do with both of these to the best of my ability!</description>
     </item>
     
-    <item>
-      <title>Archive</title>
-      <link>http://dev.drentin.au/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://dev.drentin.au/archives/</guid>
-      <description>archives</description>
-    </item>
     
-    <item>
-      <title>Search</title>
-      <link>http://dev.drentin.au/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://dev.drentin.au/search/</guid>
-      <description>search</description>
-    </item>
     
   </channel>
 </rss>
