@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on Drentin&#39;s Findings</title>
-    <link>http://dev.drentin.id.au/tags/deep-learning/</link>
+    <link>http://dev.drentin.au/tags/deep-learning/</link>
     <description>Recent content in deep-learning on Drentin&#39;s Findings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 01:00:00 +1000</lastBuildDate><atom:link href="http://dev.drentin.id.au/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 01:00:00 +1000</lastBuildDate><atom:link href="http://dev.drentin.au/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML with a AWS DeepLens: Compost, Landfill or Recycling..?</title>
-      <link>http://dev.drentin.id.au/posts/compost-landfill-recycling/</link>
+      <link>http://dev.drentin.au/posts/compost-landfill-recycling/</link>
       <pubDate>Wed, 15 Sep 2021 01:00:00 +1000</pubDate>
       
-      <guid>http://dev.drentin.id.au/posts/compost-landfill-recycling/</guid>
+      <guid>http://dev.drentin.au/posts/compost-landfill-recycling/</guid>
       <description>What we all came here for&amp;hellip; SageMaker! I was excited to get stuck into the Advanced recipe - Build a custom ML model to sort trash as this started getting into the parts I wanted to know more about; how to get a basic model trained in SageMaker and then deploy it to the DeepLens device.
 Step 1 - Train! Luckily in this example they include a number of sample images, quite a decent set really with over 500 images in total, seperate into Compost, Landfill and Recycling.</description>
     </item>

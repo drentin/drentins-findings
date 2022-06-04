@@ -1,43 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drentin&#39;s Findings</title>
-    <link>http://dev.drentin.id.au/</link>
+    <link>http://dev.drentin.au/</link>
     <description>Recent content on Drentin&#39;s Findings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 01:00:00 +1000</lastBuildDate><atom:link href="http://dev.drentin.id.au/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 01:00:00 +1000</lastBuildDate><atom:link href="http://dev.drentin.au/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML with a AWS DeepLens: Is it あ? Yes it is!</title>
-      <link>http://dev.drentin.id.au/posts/is-it-a-yes/</link>
+      <link>http://dev.drentin.au/posts/is-it-a-yes/</link>
       <pubDate>Fri, 24 Sep 2021 01:00:00 +1000</pubDate>
       
-      <guid>http://dev.drentin.id.au/posts/is-it-a-yes/</guid>
+      <guid>http://dev.drentin.au/posts/is-it-a-yes/</guid>
       <description>Starting last week I felt like I was ready to jump into attempting to work off the knowledge I had built up doing the examples previously and attempt the main goal; to create a model that was capable of recognising some of the Japanese Hiragana character set.
 Problem - Input Data! My initial problem that I had been playing with was the idea of a training data set - where would I get a good set of training data from?</description>
     </item>
     
     <item>
       <title>ML with a AWS DeepLens: Compost, Landfill or Recycling..?</title>
-      <link>http://dev.drentin.id.au/posts/compost-landfill-recycling/</link>
+      <link>http://dev.drentin.au/posts/compost-landfill-recycling/</link>
       <pubDate>Wed, 15 Sep 2021 01:00:00 +1000</pubDate>
       
-      <guid>http://dev.drentin.id.au/posts/compost-landfill-recycling/</guid>
+      <guid>http://dev.drentin.au/posts/compost-landfill-recycling/</guid>
       <description>What we all came here for&amp;hellip; SageMaker! I was excited to get stuck into the Advanced recipe - Build a custom ML model to sort trash as this started getting into the parts I wanted to know more about; how to get a basic model trained in SageMaker and then deploy it to the DeepLens device.
 Step 1 - Train! Luckily in this example they include a number of sample images, quite a decent set really with over 500 images in total, seperate into Compost, Landfill and Recycling.</description>
     </item>
     
     <item>
       <title>ML with a AWS DeepLens: First figure out how to do... anything!</title>
-      <link>http://dev.drentin.id.au/posts/first-figure-out-how-to-do/</link>
+      <link>http://dev.drentin.au/posts/first-figure-out-how-to-do/</link>
       <pubDate>Mon, 13 Sep 2021 23:29:11 +1000</pubDate>
       
-      <guid>http://dev.drentin.id.au/posts/first-figure-out-how-to-do/</guid>
+      <guid>http://dev.drentin.au/posts/first-figure-out-how-to-do/</guid>
       <description>Beginnings start here! Hello all and welcome to my first article around my attempts to create an Amazon SageMaker-based solution, focusing on image detection.
 I am participating in an initiative as part of my company&amp;rsquo;s AWS Community of Practice. The idea is inspired loosely by A Cloud Guru&amp;rsquo;s How to Build a Netflix Style Recommendation Engine with Amazon SageMaker Challenge and I have got my hands on a AWS DeepLens so I&amp;rsquo;m going to see what I can do with both of these to the best of my ability!</description>
     </item>
     
+    <item>
+      <title>Archive</title>
+      <link>http://dev.drentin.au/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.drentin.au/archives/</guid>
+      <description>archives</description>
+    </item>
     
+    <item>
+      <title>Search</title>
+      <link>http://dev.drentin.au/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.drentin.au/search/</guid>
+      <description>search</description>
+    </item>
     
   </channel>
 </rss>
