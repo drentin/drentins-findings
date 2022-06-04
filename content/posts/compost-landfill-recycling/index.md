@@ -4,7 +4,7 @@ date: 2021-09-15T01:00:00+10:00
 draft: false
 tags: ["aws", "image-processing", "amazon-web-services", "iot", "deep-learning"]
 cover:
-    image: "images/0.jpg"
+    image: "posts/compost-landfill-recycling/images/0.jpg"
     caption: "When the hexagonality of your hexagons are in question"
     relative: true
 ---

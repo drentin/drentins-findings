@@ -4,7 +4,7 @@ date: 2021-09-13T23:29:11+10:00
 draft: false
 tags: ["aws", "image-processing", "amazon-web-services", "iot", "alexa"]
 cover:
-    image: "images/0.png"
+    image: "posts/first-figure-out-how-to-do/images/0.png"
     caption: "Asking the hard(er) questions!"
     relative: true
 ---

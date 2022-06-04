@@ -4,7 +4,7 @@ date: 2021-09-24T01:00:00+10:00
 draft: false
 tags: ["aws", "image-processing", "amazon-web-services", "iot", "aws-lambda"]
 cover:
-    image: "images/0.jpg"
+    image: "posts/is-it-a-yes/images/0.jpg"
     caption: "Using a Image Classification Model to detect the first 5 Japanese Hiragana characters"
     relative: true
 ---
